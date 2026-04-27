@@ -164,37 +164,31 @@ Swagger UI provides:
 
 ---
 
-# Running with Docker
+# Run with Docker
 
-## Build and Run
+## Pull Docker Image
 
-```bash id="3vf0te"
-docker compose up --build
+```bash
+docker pull ahmedeid0/nlp-preprocessing-api
 ```
 
 ---
 
-## Stop Containers
+## Run Container
 
-```bash id="s9g74h"
-docker compose down
+```bash
+docker run -p 8000:8000 ahmedeid0/nlp-preprocessing-api
 ```
 
 ---
 
-# Logs
+# Access API Documentation
 
-Application logs are stored inside:
+After the container starts running:
 
-```txt id="dd4zsr"
-logs/app.log
-```
+http://localhost:8000/docs
 
-The logging system records:
-
-* requests
-* successful preprocessing operations
-* exceptions and errors
+Swagger UI provides interactive API testing and documentation.
 
 ---
 
