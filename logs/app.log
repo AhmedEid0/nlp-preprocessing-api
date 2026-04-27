@@ -1,0 +1,60 @@
+2026-04-25 19:52:37,609 - INFO - Root endpoint accessed
+2026-04-25 19:53:35,888 - INFO - Root endpoint accessed
+2026-04-25 19:53:37,703 - INFO - Root endpoint accessed
+2026-04-25 19:56:17,049 - INFO - Root endpoint accessed
+2026-04-25 19:56:44,793 - ERROR - Error occurred: division by zero
+2026-04-25 20:03:15,599 - INFO - Root endpoint accessed
+2026-04-26 09:19:29,196 - INFO - Root endpoint accessed
+2026-04-26 10:42:11,586 - INFO - Preprocessing request received
+2026-04-26 10:42:11,587 - INFO - Preprocessing completed successfully
+2026-04-26 10:42:13,217 - INFO - Preprocessing request received
+2026-04-26 10:42:13,217 - INFO - Preprocessing completed successfully
+2026-04-26 10:45:37,193 - INFO - Preprocessing request received
+2026-04-26 10:45:37,194 - INFO - Preprocessing completed successfully
+2026-04-26 10:45:38,585 - INFO - Preprocessing request received
+2026-04-26 10:45:38,585 - INFO - Preprocessing completed successfully
+2026-04-26 10:45:39,699 - INFO - Preprocessing request received
+2026-04-26 10:45:39,699 - INFO - Preprocessing completed successfully
+2026-04-27 10:00:26,904 - INFO - Root endpoint accessed
+2026-04-27 10:01:29,355 - INFO - Preprocessing request received
+2026-04-27 10:01:29,355 - ERROR - Preprocessing failed: 
+**********************************************************************
+  Resource 'punkt_tab' not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  >>> import nltk
+  >>> nltk.download('punkt_tab')
+
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load 'tokenizers/punkt_tab/english/'
+
+  Searched in:
+    - '/home/ahmedeid0/nltk_data'
+    - '/home/ahmedeid0/projects/nlp_preprocessing_api/.venv/nltk_data'
+    - '/home/ahmedeid0/projects/nlp_preprocessing_api/.venv/share/nltk_data'
+    - '/home/ahmedeid0/projects/nlp_preprocessing_api/.venv/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+**********************************************************************
+
+2026-04-27 10:09:21,374 - INFO - Preprocessing request received
+2026-04-27 10:09:22,614 - INFO - Preprocessing completed successfully
+2026-04-27 10:09:48,593 - INFO - Preprocessing request received
+2026-04-27 10:09:48,593 - INFO - Preprocessing completed successfully
+2026-04-27 10:10:07,876 - INFO - Preprocessing request received
+2026-04-27 10:10:07,876 - INFO - Preprocessing completed successfully
+2026-04-27 10:10:16,772 - INFO - Preprocessing request received
+2026-04-27 10:10:16,772 - INFO - Preprocessing completed successfully
+2026-04-27 10:10:21,256 - INFO - Preprocessing request received
+2026-04-27 10:10:21,256 - INFO - Preprocessing completed successfully
+2026-04-27 10:10:29,572 - INFO - Preprocessing request received
+2026-04-27 10:10:29,572 - INFO - Preprocessing completed successfully
+2026-04-27 10:24:41,675 - INFO - Preprocessing request received
+2026-04-27 10:24:41,675 - INFO - Preprocessing completed successfully
+2026-04-27 10:45:34,273 - INFO - Preprocessing request received
+2026-04-27 10:45:35,675 - INFO - Preprocessing completed successfully
+2026-04-27 10:45:36,838 - INFO - Preprocessing request received
+2026-04-27 10:45:36,838 - INFO - Preprocessing completed successfully
